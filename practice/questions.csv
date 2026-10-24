@@ -1,0 +1,9 @@
+question_id,question,asr_text,order_id,category,expected_decision
+001,"Can I return the milk packet that was delivered yesterday?","can i return the milk packet that was delivered yesterday","","Groceries","Perishable grocery items cannot be returned after 24 hours of delivery."
+002,"Where is my order? The tracking hasn't updated since morning.","where is my order the tracking has not updated since morning","ZM-40912","Order Status","Ask for order ID or check tracking; notify customer order ZM-40912 is out for delivery."
+003,"I want to return a soundbar I purchased 5 days ago. What is your return window?","i want to return a sound bar i purchased five days ago what is your return window","","Electronics","Electronics can be returned within 7 days of delivery with original packaging."
+004,"I received broken eggs in my order ZM-11029. Can I get a refund?","i received broken eggs in my order zm one one zero two nine can i get a refund","ZM-11029","Damaged Items","Apologize, confirm order ZM-11029, and issue refund/credit for damaged perishables."
+005,"What is your customer care phone number?","what is your customer care phone number","","General","Customer support helpline is available 24/7 at 1800-ZENTRO or support@zentromart.in."
+006,"Do you deliver groceries to Pune and Hyderabad?","do you deliver groceries to pune and hyderabad","","Delivery Area","Yes, ZentroMart delivers groceries across major Indian metro cities including Pune and Hyderabad."
+007,"Can I cancel my television order before it is dispatched?","can i cancel my television order before it is dispatched","","Cancellation","Orders can be cancelled anytime before dispatch with full refund to original payment method."
+008,"How many days does a UPI refund take to reflect in my bank account?","how many days does a upi refund take to reflect in my bank account","","Refunds","UPI refunds are typically credited within 24 to 48 business hours."
